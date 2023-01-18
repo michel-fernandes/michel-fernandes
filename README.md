@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michel-fernandes
-- 👀 I’m interested in camunda process and rules development
+- 👀 I’m interested in Java, angular, camunda process and rules development
 - 🌱 I’m currently learning how camunda interact with microservices, spring boot, JPA, Bran, DTO
 - 💞️ I’m looking to collaborate on process patterns
 - 📫 How to reach me: michelfernandes3@gmail.com or on linkedin https://www.linkedin.com/in/michel-fernandes-a5276019/
